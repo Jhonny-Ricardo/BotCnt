@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Abrir pagina de la CNT",
+  "Type": "App",
+  "Id": "E9OH7XxbUEa5Ufn7ZR3OFg",
+  "Reference": "drLaUoUVg0GgnlPv4za_MQ/E9OH7XxbUEa5Ufn7ZR3OFg",
+  "Created": "2024-06-06T08:30:01.4951106Z",
+  "Updated": "2024-06-06T08:30:01.4951106Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

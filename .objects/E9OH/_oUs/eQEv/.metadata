@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Abrir pagina de la CNT",
+  "Type": "Screen",
+  "Id": "eQEv6jMO7E-p-yPFFbfAZg",
+  "Reference": "drLaUoUVg0GgnlPv4za_MQ/eQEv6jMO7E-p-yPFFbfAZg",
+  "ParentRef": "drLaUoUVg0GgnlPv4za_MQ/_oUs1Coz10aC3EpvzY8uAA",
+  "Created": "2024-06-06T08:30:01.5392014Z",
+  "Updated": "2024-06-06T08:30:01.5392014Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
